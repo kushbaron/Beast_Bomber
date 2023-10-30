@@ -3,13 +3,13 @@
 ║                                                                                 ║
 ║                                   Beast bomber                                  ║
 ║  Author:                                                                        ║
-║  https://github.com/un1cum                                                      ║
+║  https://github.com/crut0i                                                      ║
 ║                                                                                 ║
 ║  The author of this program is not responsible for its use!                     ║
 ║  When posting this code on other resources, please indicate the author!         ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
-║                            Copyright (C) 2023 un1cum                            ║
+║                            Copyright (C) 2023 crut0i                            ║
 ║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
@@ -56,15 +56,15 @@ class BeastBomber:
                 text = """
         Спасибо за использование Beast bomber!
 Автор будет благодарен, если Вы поставите звезду на GitHub:
-        https://github.com/un1cum/Beast_Bomber
-              Copyright (C) 2023 un1cum """
+        https://github.com/crut0i/Beast_Bomber
+              Copyright (C) 2023 crut0i """
             else:
                 text = """
             Thanks for using Beast bomber!
 The author would appreciate it if you would put a star on 
               this repository on GitHub:
-        https://github.com/un1cum/Beast_Bomber
-              Copyright (C) 2023 un1cum """
+        https://github.com/crut0i/Beast_Bomber
+              Copyright (C) 2023 crut0i """
 
             print(fade.purplepink(text))
             os.abort()
