@@ -3,13 +3,13 @@
 ║                                                                                 ║
 ║                                   Beast Bomber                                  ║
 ║  Author:                                                                        ║
-║  https://github.com/un1cum                                                      ║
+║  https://github.com/crut0i                                                      ║
 ║                                                                                 ║
 ║  The author of this program is not responsible for its use!                     ║
 ║  When posting this code on other resources, please indicate the author!         ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
-║                            Copyright (C) 2023 un1cum                            ║
+║                            Copyright (C) 2023 crut0i                            ║
 ║                                                                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════╝
 """
