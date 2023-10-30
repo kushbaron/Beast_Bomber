@@ -59,12 +59,6 @@
 
 # 📌 Installation
 
-📌 [<kbd>Methods</kbd>](#-methods)
-- [<kbd>Manual</kbd>](#-manual)
-- [<kbd>Docker</kbd>](#-docker)
-
-## 📌 Manual
-
 ![tutorial](https://user-images.githubusercontent.com/80776324/230665884-f52bb3d8-b20d-4275-9afc-0f5068eeaf82.gif)
 
 - To run the beast bomber you need to download Python: https://www.python.org
@@ -89,38 +83,6 @@
 
   ```
   python beast.py
-  ```
-
-## 📌 Docker
-
-<div align="center">
-
-![docker](https://user-images.githubusercontent.com/80776324/230794354-00b25763-fec2-4278-841a-1c624863ab60.png)
-
-​​​​​​</br>[![docker_hub](https://user-images.githubusercontent.com/80776324/234415063-3d7b273f-12ed-46a5-a481-5c78e7c4f99a.png)](https://hub.docker.com/r/un1cum/beast_bomber)
-
-⚠️ **Important note, there is no telegram spam in the docker version** ⚠️
-
-</div>
-
-![tutorial](https://user-images.githubusercontent.com/80776324/230795737-8b7cf187-4f9b-4fa1-bd71-e4c21ebc038f.gif)
-
-`Image url: https://hub.docker.com/r/un1cum/beast_bomber`
-
-`If you don't have docker, you can install it using these instructions: https://docs.docker.com`
-
-- You need to enter the following command to download the image:
-
-
-  ```
-  docker pull un1cum/beast_bomber
-  ```
-
-- To start the bomber, enter this command:
-
-
-  ```
-  docker run -it un1cum/beast_bomber
   ```
 
 # 📌 First setup
@@ -246,12 +208,6 @@ then reinstall the **opentele** library.
 
 # 📌 Установка
 
-📌 [<kbd>Методы</kbd>](#-methods)
-- [<kbd>Вручную</kbd>](#-вручную)
-- [<kbd>Докер</kbd>](#-докер)
-
-## 📌 Вручную
-
 ![tutorial](https://user-images.githubusercontent.com/80776324/230665884-f52bb3d8-b20d-4275-9afc-0f5068eeaf82.gif)
 
 - Для работы beast bomber вам нужно установить Python: https://www.python.org
@@ -277,38 +233,6 @@ then reinstall the **opentele** library.
 
   ```
   python beast.py
-  ```
-
-## 📌 Докер
-
-<div align="center">
-
-![docker](https://user-images.githubusercontent.com/80776324/230794354-00b25763-fec2-4278-841a-1c624863ab60.png)
-
-​​​​​​</br>[![docker_hub](https://user-images.githubusercontent.com/80776324/234415063-3d7b273f-12ed-46a5-a481-5c78e7c4f99a.png)](https://hub.docker.com/r/un1cum/beast_bomber)
-
-⚠️ **Важное замечание, в docker версии отсутствует telegram спам** ⚠️
-
-</div>
-
-![tutorial](https://user-images.githubusercontent.com/80776324/230795737-8b7cf187-4f9b-4fa1-bd71-e4c21ebc038f.gif)
-
-`Ссылка на образ: https://hub.docker.com/r/un1cum/beast_bomber`
-
-`Если у вас нету docker, вы можете установить его, следуя официальным инструкциям: https://docs.docker.com`
-
-- Чтобы загрузить образ, введите следующую команду:
-
-
-  ```
-  docker pull un1cum/beast_bomber
-  ```
-
-- Чтобы запустить бомбер, введите это:
-
-
-  ```
-  docker run -it un1cum/beast_bomber
   ```
 
 # 📌 Первая настройка
