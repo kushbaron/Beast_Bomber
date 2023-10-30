@@ -175,6 +175,6 @@
 
    END OF TERMS AND CONDITIONS
 
-   Copyright © 2023 un1cum
+   Copyright © 2023-2024 crut0i
 
    http://www.apache.org/licenses/LICENSE-2.0
