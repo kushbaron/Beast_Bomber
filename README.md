@@ -4,7 +4,7 @@
 
 # Beast Bomber 💣
 
-​​​​​​</br> [![docker_hub](https://user-images.githubusercontent.com/80776324/234415063-3d7b273f-12ed-46a5-a481-5c78e7c4f99a.png)](https://hub.docker.com/r/un1cum/beast_bomber) [![Button](https://user-images.githubusercontent.com/80776324/234415221-021db78d-8949-4da8-bf54-f9ae21628d41.png)](https://github.com/un1cum/Beast_Bomber/fork) [![Discord](https://user-images.githubusercontent.com/80776324/234414710-496d8ec0-992f-409e-a0c7-bf70df85d948.png)](https://discord.gg/qkK4NG4ARU)
+​​​​​​</br> [![Button](https://user-images.githubusercontent.com/80776324/234415221-021db78d-8949-4da8-bf54-f9ae21628d41.png)](https://github.com/crut0i/Beast_Bomber/fork) [![Discord](https://user-images.githubusercontent.com/80776324/234414710-496d8ec0-992f-409e-a0c7-bf70df85d948.png)](https://discord.gg/qkK4NG4ARU)
 
 </div>
 
