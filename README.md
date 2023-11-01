@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![beast](https://github.com/un1cum/Beast_Bomber/assets/80776324/14fc365c-1e28-4733-b607-bec1f2d9d105)](https://t.me/beast_project_team)
+# [![beast](https://github.com/crut0i/Beast_Bomber/assets/80776324/14fc365c-1e28-4733-b607-bec1f2d9d105)](https://t.me/beast_project_team)
 
 # Beast Bomber 💣
 
@@ -65,7 +65,7 @@
 
 
   ```
-  git clone https://github.com/un1cum/Beast_Bomber
+  git clone https://github.com/crut0i/Beast_Bomber
   ```
 
 - P.S
@@ -214,7 +214,7 @@ then reinstall the **opentele** library.
 
 
   ```
-  git clone https://github.com/un1cum/Beast_Bomber
+  git clone https://github.com/crut0i/Beast_Bomber
   ```
 
 - P.S
