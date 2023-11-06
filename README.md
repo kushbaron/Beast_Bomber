@@ -20,7 +20,6 @@
 - [<kbd>Telegram</kbd>](#-telegram-info)
 - [<kbd>Problems and their solutions</kbd>](#-problems-and-their-solutions)
 - [<kbd>Donate for coffee</kbd>](#-donate-for-coffee)
-- [<kbd>Contributors</kbd>](#-contributors)
 
 📌 [<kbd>RU</kbd>](#-ru)
 - [<kbd>Установка</kbd>](#-установка)
@@ -32,7 +31,6 @@
 - [<kbd>Telegram</kbd>](#-telegram-инфо)
 - [<kbd>Проблемы и их решения</kbd>](#-проблемы-и-их-решения)
 - [<kbd>Автору на кофе</kbd>](#-автору-на-кофе)
-- [<kbd>Вклады в проект</kbd>](#-вклады-в-проект)
 
 # 📌 EN
 
