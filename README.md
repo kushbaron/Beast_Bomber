@@ -168,11 +168,13 @@ then reinstall the **opentele** library.
 
 * ![USDT](https://user-images.githubusercontent.com/80776324/230691044-44802059-c433-4de5-a221-0f69c0b7c660.png) **USDT (TRC-20): TKVs4Bt63mVGSYth7HSvNQBk8Xp1UKMH9Y**
 
+
 <div align="center">
   
-# ❤️ Thank you all for your contributions to the project ❤️
+# Thank you all for your contributions to the project ❤️
 
 </div>
+
 
 # 📌 RU
 
@@ -311,9 +313,10 @@ pkg install pyqt5 python-pyqtwebengine
 
 * ![USDT](https://user-images.githubusercontent.com/80776324/230691044-44802059-c433-4de5-a221-0f69c0b7c660.png) **USDT (TRC-20): TKVs4Bt63mVGSYth7HSvNQBk8Xp1UKMH9Y**
 
+
 <div align="center">
   
-# ❤️ Спасибо всем за ваши вклады в проект ❤️
+# Спасибо всем за ваши вклады в проект ❤️
 
 </div>
 
