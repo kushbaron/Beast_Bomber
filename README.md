@@ -171,7 +171,7 @@ then reinstall the **opentele** library.
 
 <div align="center">
   
-# Thank you all for your contributions to the project ❤️
+# ❤️ Thank you all for your contributions to the project
 
 </div>
 
@@ -316,7 +316,7 @@ pkg install pyqt5 python-pyqtwebengine
 
 <div align="center">
   
-# Спасибо всем за ваши вклады в проект ❤️
+# ❤️ Спасибо всем за ваши вклады в проект
 
 </div>
 
